@@ -5,8 +5,8 @@ namespace _1_PrimeiroProjeto
     class Program
     {
         static void Main(string[] args)
-        {   
-            // Aula 01
+        {
+            // Projeto 1
 
             // O comando abaixo serve para exibirmos alguma mensagem para o usuário.
             Console.WriteLine("Olá, Mundo! Este é o meu primeiro programa C# no Visual Studio.");

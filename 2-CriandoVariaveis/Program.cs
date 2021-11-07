@@ -6,7 +6,7 @@ namespace _2_CriandoVariaveis
     {
         static void Main(string[] args)
         {
-            // Aula 02
+            // Projeto 2
             Console.WriteLine("Executando projeto 2 - Criando Variáveis.");
 
             // Abaixo iremos declarar a variável idade utilizando o tipo inteiro (int)
