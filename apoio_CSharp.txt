@@ -173,3 +173,12 @@ Console.WriteLine(x < y ? "sim" : "não"); // expressão x < y é avaliada
 Console.ReadKey();
 
 Fonte: https://www.devmedia.com.br/tipos-de-operadores-do-csharp/18873
+
+
+ESCOPO DE VARIÁVEIS
+
+Escopo de variável é o nome que damos a um conjunto de regras relacionados a utilização de uma variável em um programa. Regras essas que são de extrema importância para a compreensão de algumas coisas dentro da programação, como o uso de funções.
+
+O escopo das variáveis podem ser divididos em dois tipos, as variáveis globais e as variáveis locais.
+
+Fonte: https://digitalinnovation.one/artigos/escopo-de-variaveis
