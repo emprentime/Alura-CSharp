@@ -79,3 +79,97 @@ Como concatenar Strings;
 Variáveis guardam valores e não referências.
 
 INSTRUTOR(A): Guilherme Matheus Costa
+
+IF/ELSE:
+
+A estrutura condicional if/else é um recurso que indica quais instruções o sistema deve processar de acordo com uma expressão booleana. Assim, o sistema testa se uma condição é verdadeira e então executa comandos de acordo com esse resultado.
+
+Fonte:https://www.devmedia.com.br/csharp-if-else-e-o-operador-ternario/38192
+
+
+TIPOS DE OPERADORES DO C#
+
+Operador de Atribuição:
+
+O símbolo igual (=) representa a atribuição de um valor à uma variável, onde ela e o valor atribuído devem obrigatoriamente ser de tipos compatíveis, ou seja, uma variável do tipo int por exemplo não pode receber um valor do tipo string (a menos que usemos as conversões, mas vamos deixar isso mais para frente).
+
+Veja a sintaxe: variável = atribuição;
+
+Operadores Aritméticos:
+
+Os operadores aritméticos descritos na Tabela 1 são os mesmos usados em cálculos matemáticos.
+
+Operador Aritmético -------- Descrição
++ -------- Adição
+- -------- Subtração
+* -------- Multiplicação
+/ -------- Divisão
+% -------- Módulo (resto da divisão)
+
+
+Operadores Aritméticos de Atribuição Reduzida
+
+Operador Aritmético -------- Descrição
++= -------- mais igual
+-= -------- menos igual
+*= -------- vezes igual
+/= -------- dividido igual
+%= -------- módulo igual
+
+
+Operadores incrementais e decrementais
+
+Os operadores incrementais e decrementais têm a função de aumentar ou diminuir exatamente em 1 o valor de uma variável. Eles podem ser pré ou pós incremental e pré ou pós decremental. Veja os conceitos de cada um deles e um exemplo prático a seguir:
+
+Incremental (++):
+
+Pré incremental ou prefixo – Significa que, se o sinal for colocado antes da variável, primeiramente será somado o valor 1 para esta variável, continuando em seguida a resolução da expressão.
+Pós incremental ou sufixo – Significa que, se o sinal for colocado após a variável, é resolvido primeiro a expressão, seja ela adição, subtração, multiplicação ou qualquer outra, para em seguida ser adicionado o valor 1 à variável.
+
+Decremental (--):
+
+Pré incremental ou prefixo – Significa que, se o sinal for colocado antes da variável, primeiramente será subtraído o valor 1 para esta variável, continuando em seguida a resolução da expressão.
+Pós incremental ou sufixo – Significa que, se o sinal for colocado após a variável, é resolvido primeiro a expressão, seja ela adição, subtração, multiplicação ou qualquer outra, para em seguida ser subtraído o valor 1 à variável.
+
+
+Operadores Relacionais
+
+Os operadores relacionais comparam dois valores e retornam um valor booleano (true ou false). Veja na Tabela 3 esses operadores.
+
+Operador Relacional -------- Descrição
+== -------- Igual a
+!= -------- Diferente de
+>  -------- Maior que
+<  -------- Menor que
+>= -------- Maior do que ou igual a
+<= -------- Menor do que ou igual a
+
+Operadores Lógicos
+
+Os operadores lógicos trabalham como operandos booleanos e seu resultado também será booleano (true ou false). Eles são usados somente em expressões lógicas, e são descritos na Tabela 4.
+
+Operador Lógico	Descrição
+&& -------- AND = E
+|| -------- OR = Ou
+!  -------- NOT = Não
+
+
+Operadores Ternários
+
+O operador ternário é composto por três operandos separados pelos sinais ? e : e tem o objetivo de atribuir o valor a uma variável de acordo com o resultado de um teste lógico. A sintaxe dele é: teste lógico ? valor se verdadeiro : valor se falso;
+
+Onde:
+
+teste lógico é qualquer valor ou expressão, que pode ser verdadeiro ou falso.
+valor se verdadeiro é atribuído ao valor true;
+valor se falso é atribuído ao valor false.
+Finalizando, veja o exemplo na Listagem 9 e o resultado em seguida.
+
+int x = 5, y = 10; // declaradas duas variáveis de tipo int
+
+Console.WriteLine(x < y ? "sim" : "não"); // expressão x < y é avaliada
+// se for verdadeira exibe "sim"
+// se não for verdadeira exibe "não"
+Console.ReadKey();
+
+Fonte: https://www.devmedia.com.br/tipos-de-operadores-do-csharp/18873
