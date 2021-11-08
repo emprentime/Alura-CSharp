@@ -69,3 +69,13 @@ Isso é verdade independetemente do tipo da variável.
 Ou seja, não importa se o tipo de uma variável é primitivo ou complexo, a afirmação acima é sempre verdadeira.
 
 Fonte: https://pt.stackoverflow.com/questions/59437/qual-a-diferen%C3%A7a-entre-passagem-por-valor-e-passagem-por-refer%C3%AAncia
+
+APRENDEMOS:
+
+O conceito e como declarar char e String;
+
+Como concatenar Strings;
+
+Variáveis guardam valores e não referências.
+
+INSTRUTOR(A): Guilherme Matheus Costa
