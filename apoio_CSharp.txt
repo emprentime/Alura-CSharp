@@ -54,5 +54,18 @@ float   -- 4 bytes
 long    -- 8 bytes
 double  -- 8 bytes
 
-
 INSTRUTOR(A): Guilherme Matheus Costa
+
+DIFERENÇA ENTRE PASSAGEM POR VALOR E PASSAGEM POR REFERÊNCIA:
+
+A definição mais simples e de alto nível que consigo pensar, é:
+
+Na passagem por valor, é passada uma cópia do valor da variável.
+
+Na passagem por referência, é passada uma referência à própria variável.
+
+Isso é verdade independetemente do tipo da variável.
+
+Ou seja, não importa se o tipo de uma variável é primitivo ou complexo, a afirmação acima é sempre verdadeira.
+
+Fonte: https://pt.stackoverflow.com/questions/59437/qual-a-diferen%C3%A7a-entre-passagem-por-valor-e-passagem-por-refer%C3%AAncia
