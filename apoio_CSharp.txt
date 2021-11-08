@@ -182,3 +182,11 @@ Escopo de variável é o nome que damos a um conjunto de regras relacionados a u
 O escopo das variáveis podem ser divididos em dois tipos, as variáveis globais e as variáveis locais.
 
 Fonte: https://digitalinnovation.one/artigos/escopo-de-variaveis
+
+APRENDEMOS:
+
+como usar o if;
+como usar as operações lógicas AND (&&) e OR (||);
+trabalhar com o escopo de variáveis.
+
+INSTRUTOR(A): Guilherme Matheus Costa
