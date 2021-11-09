@@ -189,4 +189,23 @@ como usar o if;
 como usar as operações lógicas AND (&&) e OR (||);
 trabalhar com o escopo de variáveis.
 
+
+APRENDEMOS:
+
+A sintaxe do while e for;
+O operador +=;
+O operador ++;
+Laços aninhados;
+A funcionalidade do break.
+
+CONCLUSÃO:
+
+Parabéns! Você terminou o curso de sintaxe básica do C#. Nós começamos discutindo a história do C#, o que motivou a Microsoft a desenvolver a linguagem e a plataforma .NET. Nós descobrimos a diferença entre os termos .NET, C#, Visual Studio, MSL e o papel de cada uma dessas tecnologias que formam essa plataforma.
+
+Começamos usando o bloco de notas e a linha de comando para compilar o primeiro programa, e então, chegamos ao VS. Escrevemos "Olá, mundo!" e conhecemos Console.ReadLine que dá um tempo de espera para o usuário ou usuária pressionar "Enter".
+
+Avançamos, criamos variáveis, passamos pela sintaxe de uma declaração de variável, pela atribuição da mesma, chegando até expressões mais complexas - como expressões aritméticas dentro de uma variável numérica.
+
+Entendemos as diferenças dos tipos numéricos e chegamos até o ponto flutuante aos trabalharmos com variáveis que admitem valores com casas decimais. Falamos também sobre condicionais, como if e else - inclusive, encadeamos uma expressão com a outra -, além de abordarmos os laços de repetição. Neste ponto, falamos de for e for encadeado, e no fim, apresentamos a palavra break, usada para interrompermos o laço mais próximo.
+
 INSTRUTOR(A): Guilherme Matheus Costa
